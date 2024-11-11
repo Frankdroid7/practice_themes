@@ -1,6 +1,6 @@
 # practice_themes
 
-A new Flutter project.
+A flutter project to practice themes
 
 ## Getting Started
 
